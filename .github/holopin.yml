@@ -1,0 +1,9 @@
+organization: # org name on holopin
+defaultSticker: # sticker ID
+stickers:
+  -
+    id: clv4xlao4183430gmcf9s0k0vv
+    alias: # shorthand-string
+  -
+   id:
+   alias:
